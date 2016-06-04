@@ -1,0 +1,24 @@
+{
+  "name": "x-ray-google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilts-vaughan/x-ray-google.git"
+  },
+  "author": "Vaughan Hilts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilts-vaughan/x-ray-google/issues"
+  },
+  "homepage": "https://github.com/hilts-vaughan/x-ray-google#readme",
+  "dependencies": {
+    "phantomjs": "^2.1.7",
+    "x-ray": "^2.0.2",
+    "x-ray-phantom": "^1.0.1"
+  }
+}
