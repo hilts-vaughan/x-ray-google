@@ -18,7 +18,7 @@
   "homepage": "https://github.com/hilts-vaughan/x-ray-google#readme",
   "dependencies": {
     "phantomjs": "^2.1.7",
-    "x-ray": "^2.0.2",
+    "x-ray": "2.0.2",
     "x-ray-phantom": "^1.0.1"
   }
 }
